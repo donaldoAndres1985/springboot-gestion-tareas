@@ -30,11 +30,11 @@ Hace parte del curso de **Java Full Stack** y expone una API REST para crear, co
 
 springboot-gestion-tareas
 ├── src
-│ ├── main
-│ │ ├── java
-│ │ │ └── com.gulder.gestiontareas
-│ │ └── resources
-│ │ └── application.properties
-│ └── test
+│   ├── main
+│   │   ├── java
+│   │   │   └── com.gulder.gestiontareas
+│   │   └── resources
+│   │       └── application.properties
+│   └── test
 ├── pom.xml
 └── README.md
