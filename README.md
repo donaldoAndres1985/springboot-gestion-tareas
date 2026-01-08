@@ -28,6 +28,7 @@ Hace parte del curso de **Java Full Stack** y expone una API REST para crear, co
 
 ## 📁 Estructura del proyecto
 
+```text
 springboot-gestion-tareas
 ├── src
 │   ├── main
